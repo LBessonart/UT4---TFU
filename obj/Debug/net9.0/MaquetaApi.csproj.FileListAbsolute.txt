@@ -1,0 +1,163 @@
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\appsettings.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.staticwebassets.endpoints.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.exe
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.deps.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.runtimeconfig.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.dll
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\MaquetaApi.pdb
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.AssemblyReference.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.AssemblyInfoInputs.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.AssemblyInfo.cs
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.CoreCompileInputs.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.sourcelink.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\scopedcss\bundle\MaquetaApi.styles.css
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.Up2Date
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.dll
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\refint\MaquetaApi.dll
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.pdb
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\MaquetaApi.genruntimeconfig.cache
+c:\Users\lucab\OneDrive\Documents\GitHub\228352-262843-291192\Backend\MaquetaApi\obj\Debug\net9.0\ref\MaquetaApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\appsettings.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.staticwebassets.endpoints.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.exe
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.deps.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.runtimeconfig.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\MaquetaApi.pdb
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.AssemblyReference.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.AssemblyInfoInputs.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.AssemblyInfo.cs
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.CoreCompileInputs.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\scopedcss\bundle\MaquetaApi.styles.css
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.csproj.Up2Date
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\refint\MaquetaApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.pdb
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\MaquetaApi.genruntimeconfig.cache
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\obj\Debug\net9.0\ref\MaquetaApi.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Humanizer.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Npgsql.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\yoels\OneDrive\Escritorio\MaquetaApi (1)\MaquetaApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll

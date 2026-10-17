@@ -1,0 +1,74 @@
+@MaquetaApi_HostAddress = http://localhost:5050
+
+### Health check
+GET {{MaquetaApi_HostAddress}}/health
+Accept: application/json
+
+### Catalogo compartido
+GET {{MaquetaApi_HostAddress}}/api/productos
+Accept: application/json
+
+### Registrar producto
+POST {{MaquetaApi_HostAddress}}/api/productos
+Content-Type: application/json
+
+{
+  "id": "prod-demo-001",
+  "nombre": "Producto demo",
+  "precio": 25,
+  "stock": 20
+}
+
+### Clientes compartidos
+GET {{MaquetaApi_HostAddress}}/api/clientes
+Accept: application/json
+
+### Registrar cliente
+POST {{MaquetaApi_HostAddress}}/api/clientes
+Content-Type: application/json
+
+{
+  "id": "cliente-demo-001",
+  "nombre": "Cliente demo",
+  "email": "demo@example.com"
+}
+
+### Crear pedido
+POST {{MaquetaApi_HostAddress}}/api/pedidos
+Content-Type: application/json
+
+{
+  "clienteId": "cliente-test-001",
+  "items": [
+    {
+      "productoId": "prod-001",
+      "cantidad": 2
+    },
+    {
+      "productoId": "prod-002",
+      "cantidad": 1
+    }
+  ]
+}
+
+### Consultar pedidos en la base compartida
+GET {{MaquetaApi_HostAddress}}/api/pedidos
+Accept: application/json
+
+### Forzar error por request y demostrar rollback ACID
+POST {{MaquetaApi_HostAddress}}/api/pedidos?simularError=true
+Content-Type: application/json
+
+{
+  "clienteId": "cliente-test-001",
+  "items": [
+    {
+      "productoId": "prod-001",
+      "cantidad": 1
+    }
+  ]
+}
+
+### Pedido de demostracion
+GET {{MaquetaApi_HostAddress}}/api/pedido/rollbasico
+Accept: application/json
