@@ -1,5 +1,6 @@
 using MaquetaApi.Components;
 using MaquetaApi.Data;
+using MaquetaApi.Middleware;
 using MaquetaApi.Services;
 using MaquetaApi.Strategies;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddMemoryCache();
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
     ?? throw new InvalidOperationException("No se configuró ConnectionStrings:DefaultConnection.");
 builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(connectionString));
@@ -30,7 +33,7 @@ switch (discountStrategy)
 
 builder.Services.AddScoped<IPedidoService, PedidoService>();
 builder.Services.AddSingleton<IDescuento>(sp => sp.GetRequiredService<IDiscountStrategy>());
-builder.Services.AddScoped<ICatalogo, CatalogoService>();
+builder.Services.AddScoped<ICatalogo, CatalogoConCacheService>();
 builder.Services.AddScoped<IClientes, ClientesService>();
 builder.Services.AddScoped<PedidoPersistencia>();
 builder.Services.AddScoped<Reintento>();
@@ -38,6 +41,7 @@ builder.Services.AddScoped<IPersistencia, PersistenciaConReintentos>();
 builder.Services.AddScoped<BalanceadorService>();
 builder.Services.AddScoped<IConfiguracionExterna, ConfiguracionExternaService>();
 builder.Services.AddHostedService<RefrescoVistaService>();
+builder.Services.AddSingleton<ValetKeyService>();
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -57,6 +61,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Gatekeeper pattern: middleware de autenticación
+app.UseMiddleware<GatekeeperMiddleware>();
 
 app.MapControllers();
 app.MapGet("/health", () => Results.Ok(new { status = "ok" }));
