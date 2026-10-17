@@ -37,6 +37,7 @@ builder.Services.AddScoped<Reintento>();
 builder.Services.AddScoped<IPersistencia, PersistenciaConReintentos>();
 builder.Services.AddScoped<BalanceadorService>();
 builder.Services.AddScoped<IConfiguracionExterna, ConfiguracionExternaService>();
+builder.Services.AddHostedService<RefrescoVistaService>();
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -85,7 +86,8 @@ static async Task InicializarBaseDeDatosAsync(IServiceProvider services)
             ('cliente-test-001', 'Cliente de prueba', 'cliente@example.com')
             ON CONFLICT ("Id") DO NOTHING;
             INSERT INTO config.parametros ("Clave", "Valor") VALUES
-            ('reintentos.maxIntentos', '4')
+            ('reintentos.maxIntentos', '4'),
+            ('vista.refrescoSegundos', '30')
             ON CONFLICT ("Clave") DO NOTHING;
             """);
 

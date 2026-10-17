@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaquetaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8969411fbb9bfa93bcd46ed72ff540bb2c53d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaquetaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaquetaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
