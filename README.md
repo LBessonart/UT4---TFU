@@ -4,6 +4,8 @@ API REST del mini e-commerce de la TFU3. La solución usa componentes e interfac
 
 Para probar todos los endpoints desde Postman, consulta [MANUAL-POSTMAN.md](MANUAL-POSTMAN.md).
 
+> **TFU5:** la versión en microservicios (con la operación SOAP) está en [`microservicios/`](microservicios/). Ver [TFU5-MICROSERVICIOS.md](TFU5-MICROSERVICIOS.md).
+
 ## Arquitectura ejecutable
 
 ```text

@@ -1,0 +1,113 @@
+# TFU5 - Arquitectura de microservicios
+#   gatekeeper (Nginx :5050) -> pedidos / catalogo / clientes
+#   pedidos -> cache (Redis), catalogo (SOAP), clientes (REST), db-pedidos
+#   catalogo -> db-catalogo     clientes -> db-clientes
+#
+# Redes: "servicios" une al Gatekeeper, los microservicios y la caché. Cada base de datos vive en
+# su propia red, compartida solo con su servicio: Pedidos ni siquiera puede llegar a la BD de Catálogo.
+name: tfu5-microservicios
+
+services:
+  gatekeeper:
+    image: nginx:1.27-alpine
+    # Demo local: solo se publica en 127.0.0.1 (no queda accesible desde la red ni desde internet)
+    ports:
+      - "127.0.0.1:5050:80"
+    volumes:
+      - ./gateway/nginx.conf:/etc/nginx/nginx.conf:ro
+    networks: [servicios]
+    # Sin "condition: service_healthy": el Gatekeeper arranca aunque algún servicio esté caído
+    depends_on: [catalogo, clientes, pedidos]
+    restart: unless-stopped
+
+  catalogo:
+    build: ./ServicioCatalogo
+    environment:
+      ConnectionStrings__Catalogo: Host=db-catalogo;Port=5432;Database=catalogo;Username=postgres;Password=postgres
+      Soap__Url: http://catalogo:8080/ws/productos
+    networks: [servicios, datos-catalogo]
+    depends_on:
+      db-catalogo:
+        condition: service_healthy
+    restart: unless-stopped
+
+  clientes:
+    build: ./ServicioClientes
+    environment:
+      ConnectionStrings__Clientes: Host=db-clientes;Port=5432;Database=clientes;Username=postgres;Password=postgres
+    networks: [servicios, datos-clientes]
+    depends_on:
+      db-clientes:
+        condition: service_healthy
+    restart: unless-stopped
+
+  pedidos:
+    build: ./ServicioPedidos
+    environment:
+      ConnectionStrings__Pedidos: Host=db-pedidos;Port=5432;Database=pedidos;Username=postgres;Password=postgres
+      ConnectionStrings__Redis: cache:6379
+      Servicios__CatalogoUrl: http://catalogo:8080
+      Servicios__ClientesUrl: http://clientes:8080
+      Cache__TtlSegundos: "60"
+      Resiliencia__TimeoutCatalogoSegundos: "5"
+      Resiliencia__TimeoutClientesSegundos: "3"
+      Resiliencia__Reintentos: "2"
+      Resiliencia__CircuitoAbiertoSegundos: "15"
+      DiscountStrategy: percentage
+    networks: [servicios, datos-pedidos]
+    # Pedidos NO depende del arranque de Catálogo ni de Clientes: se despliegan de forma independiente
+    depends_on:
+      db-pedidos:
+        condition: service_healthy
+      cache:
+        condition: service_started
+    restart: unless-stopped
+
+  cache:
+    image: redis:7-alpine
+    command: ["redis-server", "--save", "", "--appendonly", "no", "--maxmemory", "64mb", "--maxmemory-policy", "allkeys-lru"]
+    networks: [servicios]
+    restart: unless-stopped
+
+  db-catalogo:
+    image: postgres:16-alpine
+    environment: &pg
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: catalogo
+    volumes: [catalogo_data:/var/lib/postgresql/data]
+    networks: [datos-catalogo]
+    healthcheck: &pg_health
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  db-clientes:
+    image: postgres:16-alpine
+    environment:
+      <<: *pg
+      POSTGRES_DB: clientes
+    volumes: [clientes_data:/var/lib/postgresql/data]
+    networks: [datos-clientes]
+    healthcheck: *pg_health
+
+  db-pedidos:
+    image: postgres:16-alpine
+    environment:
+      <<: *pg
+      POSTGRES_DB: pedidos
+    volumes: [pedidos_data:/var/lib/postgresql/data]
+    networks: [datos-pedidos]
+    healthcheck: *pg_health
+
+networks:
+  servicios:
+  datos-catalogo:
+  datos-clientes:
+  datos-pedidos:
+
+volumes:
+  catalogo_data:
+  clientes_data:
+  pedidos_data:

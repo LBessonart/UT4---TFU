@@ -15,4 +15,12 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
   </ItemGroup>
 
+  <!-- TFU5: los microservicios son proyectos independientes; el monolito (TFU4) no los compila -->
+  <ItemGroup>
+    <Compile Remove="microservicios/**" />
+    <Content Remove="microservicios/**" />
+    <None Remove="microservicios/**" />
+    <EmbeddedResource Remove="microservicios/**" />
+  </ItemGroup>
+
 </Project>
